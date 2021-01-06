@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TDCategoryKit'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = '测试TDCategoryKit'
 
 # This description is used to generate tags and improve search results.
@@ -34,6 +34,7 @@ TODO: Add long description of the pod here.
   
   s.subspec 'CategoryFile' do |nth|
     nth.source_files = 'TDCategoryKit/Classes/CategoryFile/**/*'
+    end
   # s.resource_bundles = {
   #   'TDCategoryKit' => ['TDCategoryKit/Assets/*.png']
   # }
