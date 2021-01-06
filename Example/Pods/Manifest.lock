@@ -1,16 +1,16 @@
 PODS:
-  - TDCategoryKit (1.0.0)
+  - TDCategoryKit (1.0.1)
 
 DEPENDENCIES:
-  - TDCategoryKit
+  - TDCategoryKit (= 1.0.1)
 
 SPEC REPOS:
   https://github.com/gh-bsj/TDSpecs.git:
     - TDCategoryKit
 
 SPEC CHECKSUMS:
-  TDCategoryKit: bc7bef429893e2f19f821d18f7b39fddd7917a6d
+  TDCategoryKit: 4df5627d1aea2fa9b3fca62eec6611d87ee3602a
 
-PODFILE CHECKSUM: 7152d4afcfceed4eaff592b00901ac1e3247ca0b
+PODFILE CHECKSUM: 52b5e4a9533cc426c1a2fbdeb9db6c7dddb3d803
 
 COCOAPODS: 1.10.0
