@@ -1,0 +1,6 @@
+framework module TDCategoryKit {
+  umbrella header "TDCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

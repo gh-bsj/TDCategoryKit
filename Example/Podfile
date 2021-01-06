@@ -1,10 +1,10 @@
-use_frameworks!
-
+#use_frameworks!
+source 'https://github.com/gh-bsj/TDSpecs.git'
 platform :ios, '9.0'
 
 target 'TDCategoryKit_Example' do
-  pod 'TDCategoryKit', :path => '../'
-
+#  pod 'TDCategoryKit', :path => '../'
+pod 'TDCategoryKit'
   target 'TDCategoryKit_Tests' do
     inherit! :search_paths
 
